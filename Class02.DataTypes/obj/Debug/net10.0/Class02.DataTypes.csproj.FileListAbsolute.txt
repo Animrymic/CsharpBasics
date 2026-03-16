@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\bin\Debug\net10.0\Class02.DataTypes.exe
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\bin\Debug\net10.0\Class02.DataTypes.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\bin\Debug\net10.0\Class02.DataTypes.runtimeconfig.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\bin\Debug\net10.0\Class02.DataTypes.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\bin\Debug\net10.0\Class02.DataTypes.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\obj\Debug\net10.0\Class02.DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\obj\Debug\net10.0\Class02.DataTypes.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\obj\Debug\net10.0\Class02.DataTypes.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\obj\Debug\net10.0\Class02.DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\obj\Debug\net10.0\Class02.DataTypes.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\obj\Debug\net10.0\Class02.DataTypes.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\obj\Debug\net10.0\refint\Class02.DataTypes.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\obj\Debug\net10.0\Class02.DataTypes.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\obj\Debug\net10.0\Class02.DataTypes.genruntimeconfig.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.DataTypes\obj\Debug\net10.0\ref\Class02.DataTypes.dll
