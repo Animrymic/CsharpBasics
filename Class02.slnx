@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Class02.DataEntry/Class02.DataEntry.csproj" />
+  <Project Path="Class02.DataTypes/Class02.DataTypes.csproj" />
+  <Project Path="Class02.Exercise1/Class02.Exercise1.csproj" />
+  <Project Path="Class02.Exercise2/Class02.Exercise2.csproj" />
+  <Project Path="Class02.Exercise3/Class02.Exercise3.csproj" />
+  <Project Path="Class02.Operators/Class02.Operators.csproj" />
+</Solution>
