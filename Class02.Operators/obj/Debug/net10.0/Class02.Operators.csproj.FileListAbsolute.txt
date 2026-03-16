@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\bin\Debug\net10.0\Class02.Operators.exe
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\bin\Debug\net10.0\Class02.Operators.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\bin\Debug\net10.0\Class02.Operators.runtimeconfig.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\bin\Debug\net10.0\Class02.Operators.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\bin\Debug\net10.0\Class02.Operators.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\obj\Debug\net10.0\Class02.Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\obj\Debug\net10.0\Class02.Operators.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\obj\Debug\net10.0\Class02.Operators.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\obj\Debug\net10.0\Class02.Operators.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\obj\Debug\net10.0\Class02.Operators.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\obj\Debug\net10.0\Class02.Operators.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\obj\Debug\net10.0\refint\Class02.Operators.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\obj\Debug\net10.0\Class02.Operators.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\obj\Debug\net10.0\Class02.Operators.genruntimeconfig.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class02\Class02\Class02\Class02.Operators\obj\Debug\net10.0\ref\Class02.Operators.dll
