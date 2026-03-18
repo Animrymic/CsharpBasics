@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\bin\Debug\net10.0\Class03.Exercise2.exe
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\bin\Debug\net10.0\Class03.Exercise2.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\bin\Debug\net10.0\Class03.Exercise2.runtimeconfig.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\bin\Debug\net10.0\Class03.Exercise2.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\bin\Debug\net10.0\Class03.Exercise2.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\obj\Debug\net10.0\Class03.Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\obj\Debug\net10.0\Class03.Exercise2.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\obj\Debug\net10.0\Class03.Exercise2.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\obj\Debug\net10.0\Class03.Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\obj\Debug\net10.0\Class03.Exercise2.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\obj\Debug\net10.0\Class03.Exercise2.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\obj\Debug\net10.0\refint\Class03.Exercise2.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\obj\Debug\net10.0\Class03.Exercise2.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\obj\Debug\net10.0\Class03.Exercise2.genruntimeconfig.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.Exercise2\obj\Debug\net10.0\ref\Class03.Exercise2.dll
