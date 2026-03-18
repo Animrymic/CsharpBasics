@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\obj\Debug\net10.0\Class03.LoopsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\obj\Debug\net10.0\Class03.LoopsAndArrays.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\obj\Debug\net10.0\Class03.LoopsAndArrays.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\obj\Debug\net10.0\Class03.LoopsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\obj\Debug\net10.0\Class03.LoopsAndArrays.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\bin\Debug\net10.0\Class03.LoopsAndArrays.exe
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\bin\Debug\net10.0\Class03.LoopsAndArrays.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\bin\Debug\net10.0\Class03.LoopsAndArrays.runtimeconfig.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\bin\Debug\net10.0\Class03.LoopsAndArrays.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\bin\Debug\net10.0\Class03.LoopsAndArrays.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\obj\Debug\net10.0\Class03.LoopsAndArrays.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\obj\Debug\net10.0\refint\Class03.LoopsAndArrays.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\obj\Debug\net10.0\Class03.LoopsAndArrays.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\obj\Debug\net10.0\Class03.LoopsAndArrays.genruntimeconfig.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class03\Class03\Class033\Class03.LoopsAndArrays\obj\Debug\net10.0\ref\Class03.LoopsAndArrays.dll
