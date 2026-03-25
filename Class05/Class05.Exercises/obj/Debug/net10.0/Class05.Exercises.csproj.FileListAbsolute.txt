@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\bin\Debug\net10.0\Class05.Exercises.exe
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\bin\Debug\net10.0\Class05.Exercises.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\bin\Debug\net10.0\Class05.Exercises.runtimeconfig.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\bin\Debug\net10.0\Class05.Exercises.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\bin\Debug\net10.0\Class05.Exercises.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\obj\Debug\net10.0\Class05.Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\obj\Debug\net10.0\Class05.Exercises.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\obj\Debug\net10.0\Class05.Exercises.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\obj\Debug\net10.0\Class05.Exercises.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\obj\Debug\net10.0\Class05.Exercises.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\obj\Debug\net10.0\Class05.Exercises.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\obj\Debug\net10.0\refint\Class05.Exercises.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\obj\Debug\net10.0\Class05.Exercises.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\obj\Debug\net10.0\Class05.Exercises.genruntimeconfig.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.Exercises\obj\Debug\net10.0\ref\Class05.Exercises.dll

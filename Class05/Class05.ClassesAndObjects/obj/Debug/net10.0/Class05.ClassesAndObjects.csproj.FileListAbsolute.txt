@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\bin\Debug\net10.0\Class05.ClassesAndObjects.exe
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\bin\Debug\net10.0\Class05.ClassesAndObjects.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\bin\Debug\net10.0\Class05.ClassesAndObjects.runtimeconfig.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\bin\Debug\net10.0\Class05.ClassesAndObjects.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\bin\Debug\net10.0\Class05.ClassesAndObjects.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\obj\Debug\net10.0\Class05.ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\obj\Debug\net10.0\Class05.ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\obj\Debug\net10.0\Class05.ClassesAndObjects.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\obj\Debug\net10.0\Class05.ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\obj\Debug\net10.0\Class05.ClassesAndObjects.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\obj\Debug\net10.0\Class05.ClassesAndObjects.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\obj\Debug\net10.0\refint\Class05.ClassesAndObjects.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\obj\Debug\net10.0\Class05.ClassesAndObjects.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\obj\Debug\net10.0\Class05.ClassesAndObjects.genruntimeconfig.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class05\Class05\Class05.ClassesAndObjects\obj\Debug\net10.0\ref\Class05.ClassesAndObjects.dll
