@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\bin\Debug\net10.0\Class07.CTOR-Inheritance.exe
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\bin\Debug\net10.0\Class07.CTOR-Inheritance.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\bin\Debug\net10.0\Class07.CTOR-Inheritance.runtimeconfig.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\bin\Debug\net10.0\Class07.CTOR-Inheritance.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\bin\Debug\net10.0\Class07.CTOR-Inheritance.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\obj\Debug\net10.0\Class07.CTOR-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\obj\Debug\net10.0\Class07.CTOR-Inheritance.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\obj\Debug\net10.0\Class07.CTOR-Inheritance.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\obj\Debug\net10.0\Class07.CTOR-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\obj\Debug\net10.0\Class07.CTOR-Inheritance.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\obj\Debug\net10.0\Class07.CTOR-Inheritance.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\obj\Debug\net10.0\refint\Class07.CTOR-Inheritance.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\obj\Debug\net10.0\Class07.CTOR-Inheritance.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\obj\Debug\net10.0\Class07.CTOR-Inheritance.genruntimeconfig.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.CTOR-Inheritance\obj\Debug\net10.0\ref\Class07.CTOR-Inheritance.dll

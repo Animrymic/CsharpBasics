@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\bin\Debug\net10.0\Class07.Enums.exe
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\bin\Debug\net10.0\Class07.Enums.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\bin\Debug\net10.0\Class07.Enums.runtimeconfig.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\bin\Debug\net10.0\Class07.Enums.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\bin\Debug\net10.0\Class07.Enums.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\obj\Debug\net10.0\Class07.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\obj\Debug\net10.0\Class07.Enums.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\obj\Debug\net10.0\Class07.Enums.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\obj\Debug\net10.0\Class07.Enums.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\obj\Debug\net10.0\Class07.Enums.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\obj\Debug\net10.0\Class07.Enums.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\obj\Debug\net10.0\refint\Class07.Enums.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\obj\Debug\net10.0\Class07.Enums.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\obj\Debug\net10.0\Class07.Enums.genruntimeconfig.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.Enums\obj\Debug\net10.0\ref\Class07.Enums.dll
