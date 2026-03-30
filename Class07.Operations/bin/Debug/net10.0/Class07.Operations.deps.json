@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Class07.Operations/1.0.0": {
+        "dependencies": {
+          "Class07.MathLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Class07.Operations.dll": {}
+        }
+      },
+      "Class07.MathLibrary/1.0.0": {
+        "runtime": {
+          "Class07.MathLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class07.Operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Class07.MathLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

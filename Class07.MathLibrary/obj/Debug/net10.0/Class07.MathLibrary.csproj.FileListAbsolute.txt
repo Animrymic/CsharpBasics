@@ -1,0 +1,12 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\bin\Debug\net10.0\Class07.MathLibrary.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\bin\Debug\net10.0\Class07.MathLibrary.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\bin\Debug\net10.0\Class07.MathLibrary.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\obj\Debug\net10.0\Class07.MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\obj\Debug\net10.0\Class07.MathLibrary.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\obj\Debug\net10.0\Class07.MathLibrary.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\obj\Debug\net10.0\Class07.MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\obj\Debug\net10.0\Class07.MathLibrary.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\obj\Debug\net10.0\Class07.MathLibrary.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\obj\Debug\net10.0\refint\Class07.MathLibrary.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\obj\Debug\net10.0\Class07.MathLibrary.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class07\Class07\Class07.MathLibrary\obj\Debug\net10.0\ref\Class07.MathLibrary.dll
