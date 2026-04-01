@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\bin\Debug\net10.0\Class08.GenericCollections.exe
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\bin\Debug\net10.0\Class08.GenericCollections.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\bin\Debug\net10.0\Class08.GenericCollections.runtimeconfig.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\bin\Debug\net10.0\Class08.GenericCollections.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\bin\Debug\net10.0\Class08.GenericCollections.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\obj\Debug\net10.0\Class08.GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\obj\Debug\net10.0\Class08.GenericCollections.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\obj\Debug\net10.0\Class08.GenericCollections.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\obj\Debug\net10.0\Class08.GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\obj\Debug\net10.0\Class08.GenericCollections.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\obj\Debug\net10.0\Class08.GenericCollections.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\obj\Debug\net10.0\refint\Class08.GenericCollections.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\obj\Debug\net10.0\Class08.GenericCollections.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\obj\Debug\net10.0\Class08.GenericCollections.genruntimeconfig.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class08\Class08\Class08.GenericCollections\obj\Debug\net10.0\ref\Class08.GenericCollections.dll
