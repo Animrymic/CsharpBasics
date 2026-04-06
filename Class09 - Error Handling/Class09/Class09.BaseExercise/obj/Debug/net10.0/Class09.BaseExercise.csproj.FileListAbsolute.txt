@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\bin\Debug\net10.0\Class09.BaseExercise.exe
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\bin\Debug\net10.0\Class09.BaseExercise.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\bin\Debug\net10.0\Class09.BaseExercise.runtimeconfig.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\bin\Debug\net10.0\Class09.BaseExercise.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\bin\Debug\net10.0\Class09.BaseExercise.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\obj\Debug\net10.0\Class09.BaseExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\obj\Debug\net10.0\Class09.BaseExercise.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\obj\Debug\net10.0\Class09.BaseExercise.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\obj\Debug\net10.0\Class09.BaseExercise.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\obj\Debug\net10.0\Class09.BaseExercise.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\obj\Debug\net10.0\Class09.BaseExercise.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\obj\Debug\net10.0\refint\Class09.BaseExercise.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\obj\Debug\net10.0\Class09.BaseExercise.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\obj\Debug\net10.0\Class09.BaseExercise.genruntimeconfig.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.BaseExercise\obj\Debug\net10.0\ref\Class09.BaseExercise.dll

@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\bin\Debug\net10.0\Class09.ErrorHandling.exe
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\bin\Debug\net10.0\Class09.ErrorHandling.deps.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\bin\Debug\net10.0\Class09.ErrorHandling.runtimeconfig.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\bin\Debug\net10.0\Class09.ErrorHandling.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\bin\Debug\net10.0\Class09.ErrorHandling.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\obj\Debug\net10.0\Class09.ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\obj\Debug\net10.0\Class09.ErrorHandling.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\obj\Debug\net10.0\Class09.ErrorHandling.AssemblyInfo.cs
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\obj\Debug\net10.0\Class09.ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\obj\Debug\net10.0\Class09.ErrorHandling.sourcelink.json
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\obj\Debug\net10.0\Class09.ErrorHandling.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\obj\Debug\net10.0\refint\Class09.ErrorHandling.dll
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\obj\Debug\net10.0\Class09.ErrorHandling.pdb
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\obj\Debug\net10.0\Class09.ErrorHandling.genruntimeconfig.cache
+C:\Users\code\Desktop\Dragan Trojanovik Avenga Academy\C# .NET\Class09 - Error Handling\Class09\Class09.ErrorHandling\obj\Debug\net10.0\ref\Class09.ErrorHandling.dll
