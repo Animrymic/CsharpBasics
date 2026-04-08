@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AcademyManagement.App/AcademyManagement.App.csproj" />
+  <Project Path="AcademyManagement.Domain/AcademyManagement.Domain.csproj" />
+  <Project Path="AcademyManagement.Services/AcademyManagement.Services.csproj" />
+</Solution>
